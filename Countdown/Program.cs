@@ -1,6 +1,6 @@
 ﻿// This is challenge work for the "C# Players Guide"
 // Level 13 the countdown Challenge
-// This is a simple task to create a count down from 10 to 1 without using loops.
+// This is a simple task to create a countdown from 10 to 1 without using loops.
 // The goal is to use recursion
 
 int countDownNumber = 10;
